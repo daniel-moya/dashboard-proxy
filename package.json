@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"main": "index.js",
 	"scripts": {
-		"proxy": "node index.js"
+		"start": "node index.js"
 	},
 	"author": "Daniel Moya",
 	"license": "ISC",
